@@ -15,11 +15,11 @@ To run the Health App locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/health-app.git
+   git clone https://github.com/ogc16/FitnessApp.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd health-app
+   cd FitnessApp
    ```
 3. Install dependencies:
    ```sh
@@ -58,4 +58,4 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, reach out at [your email] or open an issue in the repository.
+For any inquiries, reach out at caleb@techgaetano.com or open an issue in the repository.
