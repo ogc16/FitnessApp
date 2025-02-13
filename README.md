@@ -31,11 +31,11 @@ To run the Health App locally:
    ```
 
 ## Technologies Used
-- **Frontend**: React / Next.js
-- **Backend**: Node.js / Express.js / Flask
+- **Frontend**: React / Expo
+- **Backend**: Node.js 
 - **Database**: MongoDB / PostgreSQL
 - **Authentication**: JWT / OAuth
-- **UI Framework**: Tailwind CSS
+- **UI Framework**: Tailwind CSS/ bootstrap 
 
 ## Contribution
 Contributions are welcome! Follow these steps:
